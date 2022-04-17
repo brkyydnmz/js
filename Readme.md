@@ -6,11 +6,11 @@
 [Lesson](https://www.udemy.com/user/osmancalisir/)
 
 ## You will learn
--JavaScript
--ES6
--ReactJs
--NodeJs
--p5js
--D3js
--npm
--git
+- JavaScript
+- ES6
+- ReactJs
+- NodeJs
+- p5js
+- D3js
+- npm
+- git
