@@ -16,4 +16,4 @@ console.log(tahta); // 0 ın 1 i 0 ın 2 si .. 0 ın 8 ine kadar 1.sırayı olu�
 
 console.log((new Array(65).join().split("")).map(function(v,i){
     return((i/8>>0)%2 ? (i%2 ? " ":"#"):(i%2 ?"#": " "))
-    +((i+1)%8 ? " ":"\n");}).join(""));
+    +((i+1)%8 ? "":"\n");}).join(""));
